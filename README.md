@@ -61,3 +61,7 @@ Additional Resources
   
 Troubleshooting
 For help with common issues, check out the Create React App troubleshooting guide.
+
+
+//Furthermore
+This project isn't my best work yet, but I promise you that I will give my absolute best when I get the opportunity to join your team. I am fully committed to continuously improving and contributing in every way possible. My passion for growth and my drive to succeed ensure that I'll always bring my A-game to the table. I am confident that with the chance to work with your team, I will deliver results beyond expectations
